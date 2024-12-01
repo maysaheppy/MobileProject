@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\layout_activity_admin_hapus.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\layout\\activity_admin_hapus.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable_baseline_person_outline_60.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable\\baseline_person_outline_60.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable-anydpi_ic_action_name.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable-anydpi\\ic_action_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable_outline_account_circle_40.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable\\outline_account_circle_40.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\layout_activity_tambah_lukisan.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\layout\\activity_tambah_lukisan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable_outline_account_circle_32.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable\\outline_account_circle_32.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\layout_activity_admin_detail.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\layout\\activity_admin_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable_round_add_circle_60.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable\\round_add_circle_60.xml"
+    },
+    {
+        "merged": "com.example.projectmejatim.app-debug-45:/layout_activity_admin_profil.xml.flat",
+        "source": "com.example.projectmejatim.app-main-47:/layout/activity_admin_profil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\layout_activity_admin_detail2.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\layout\\activity_admin_detail2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable_baseline_person_outline_36.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable\\baseline_person_outline_36.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable_baseline_add_30.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable\\baseline_add_30.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\layout_activity_admin_login.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable_outline_account_circle_36.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable\\outline_account_circle_36.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\layout_activity_admin_profil.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\layout\\activity_admin_profil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\layout_item_lukisan.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\layout\\item_lukisan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable\\baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable_baseline_person_outline_32.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable\\baseline_person_outline_32.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable_background_lukisan.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable\\background_lukisan.jpg"
+    },
+    {
+        "merged": "com.example.projectmejatim.app-debug-45:/drawable_round_power_settings_new_60.xml.flat",
+        "source": "com.example.projectmejatim.app-main-47:/drawable/round_power_settings_new_60.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\layout_activity_public_profil.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\layout\\activity_public_profil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\layout_activity_public_detail.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\layout\\activity_public_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\layout_activity_halaman_admin.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\layout\\activity_halaman_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable_outline_account_circle_60.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable\\outline_account_circle_60.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\drawable_outline_account_circle_60_black.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\drawable\\outline_account_circle_60_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\layout_activity_admin_edit.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\layout\\activity_admin_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-debug-45:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.7\\com.example.projectmejatim.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    }
+]
