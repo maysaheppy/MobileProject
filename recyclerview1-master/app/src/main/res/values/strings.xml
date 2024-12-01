@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Recycler1</string>
+    <string-array name="nim">
+        <item>225150400111009</item>
+        <item>225150400111009</item>
+        <item>225150400111009</item>
+        <item>225150400111009</item>
+        <item>225150400111009</item>
+        <item>225150400111009</item>
+        <item>225150400111009</item>
+        <item>225150400111009</item>
+        <item>225150400111009</item>
+    </string-array>
+    <string-array name="nama">
+        <item>Maysa Heppy</item>
+        <item>Maysa </item>
+        <item>Heppy</item>
+        <item>Nur</item>
+        <item>Kayaningsih</item>
+        <item>Heppy Nur</item>
+        <item>Nur Kayaningsih</item>
+        <item>Maysa Heppy</item>
+        <item>Maysa Heppy</item>
+    </string-array>
+
+</resources>
